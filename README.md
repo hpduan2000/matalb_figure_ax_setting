@@ -1,2 +1,2 @@
-# matalb_figure_ax_setting
+# Example
 ![Example Image](./Example.png)
